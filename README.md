@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biamouraa&label=Profile%20views&color=0e75b6&style=flat" alt="biamouraa" /> </p>
 
-- 🌱 I’m currently learning **C and Arduino**
+- 🌱 I’m currently learning **C and Python**
 
 - 📫 How to reach me **biamouraalmeida@gmail.com**
 
