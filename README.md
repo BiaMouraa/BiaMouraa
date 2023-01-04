@@ -8,8 +8,8 @@
 - 📫 How to reach me **biamouraalmeida@gmail.com**
 
 <h3 align="left">Volunteer Experience:</h3>
-- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
-[RAS]: https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true
+
+- Member of IEEE [RAS](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) UFPB (Robotics and Automation Society).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
