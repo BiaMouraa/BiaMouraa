@@ -9,7 +9,7 @@
 
 <h3 align="left">Volunteer Experience:</h3>
 
-- Member of IEEE [RAS](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) UFPB (Robotics and Automation Society).
+- Member of IEEE [RAS](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) UFPB (Robotics and Automation Society)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
